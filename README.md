@@ -5,10 +5,10 @@ learning programming and basic data structures.
 
 ## Contents
 - Employee Sorting
-- More programs will be added
 
 ## Language
 - C++
 
 ## Author
 - Ritesh Vanjare
+
