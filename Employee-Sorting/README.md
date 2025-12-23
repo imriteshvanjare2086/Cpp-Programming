@@ -1,4 +1,4 @@
-# Employee Sorting in C++
+# Employee Sorting 
 
 This program sorts employee records based on salary using different
 sorting algorithms in C++.
