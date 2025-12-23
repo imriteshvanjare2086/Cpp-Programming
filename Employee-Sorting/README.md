@@ -1,3 +1,16 @@
-# Cpp-Programming
-This repository serves as a central place for my C++ programming practice, showcasing continuous learning, experimentation, and code improvement over time.
-Author - Ritesh Vanja
+# Employee Sorting in C++
+
+This program sorts employee records based on salary using different
+sorting algorithms in C++.
+
+## Features
+- Stores employee name and salary
+- Menu-driven program
+- Sorts data in ascending order of salary
+
+## Sorting Methods
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+
