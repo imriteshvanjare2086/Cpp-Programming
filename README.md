@@ -5,7 +5,7 @@ learning programming and basic data structures.
 
 ## Contents
 - Employee Sorting
-- More programs will be added
+- More programs will be added soon
 
 ## Language
 - C++
