@@ -8,6 +8,7 @@ struct Employee
     string name;
     float salary;
 };
+
 void input_data(Employee e[],int &n)
 {
     cout << "\n=============================================================================================";
