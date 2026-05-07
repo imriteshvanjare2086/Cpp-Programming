@@ -3,11 +3,13 @@
 #include<algorithm>
 using namespace std;
 const int MAX = 100;
+
 struct Employee
 {
     string name;
     float salary;
 };
+
 
 void input_data(Employee e[],int &n)
 {
@@ -64,6 +66,7 @@ void selection_sort(Employee e[],int n)
         swap(e[i],e[seidx]);
     }
 }
+
 void insertion_sort(Employee e[],int n)
 {
     for(int i=0;i<n;i++)
