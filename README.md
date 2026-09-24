@@ -1,7 +1,7 @@
 # C++ Programming
 
 This repository contains C++ programs and mini projects created while
-learning programming and basic data structures.
+learning programming and basic data structures and algorithms.
 
 ## Contents
 - Employee Sorting
